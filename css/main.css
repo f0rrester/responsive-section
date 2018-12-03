@@ -82,6 +82,7 @@ section h2 {
     padding-left: 1rem;
     padding-right: 1rem;
   }
+
 }
 
 @media only screen and (min-width: 38em) {
@@ -117,6 +118,7 @@ section h2 {
   .section-icon, .section-letter {
     padding: 0;
   }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -130,6 +132,7 @@ section h2 {
   p {
     margin: 0 0 1.5rem;
   }
+
 }
 
 @media only screen and (min-width: 90em) {
@@ -143,4 +146,5 @@ section h2 {
     margin-left: auto;
     margin-right: auto;
   }
+
 }
